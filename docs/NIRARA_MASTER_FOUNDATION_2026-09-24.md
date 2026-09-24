@@ -3,7 +3,7 @@
 
 **Artist:** Omar Khair  
 **Date:** 2026-09-24  
-**Status:** CANONICAL FOUNDATION / PRE-IMPLEMENTATION
+**Status:** CANONICAL FOUNDATION / VISUAL LAW RESET
 
 ---
 
@@ -47,9 +47,9 @@ The work does not decide for the viewer.
 
 Only five elements are required at foundation level.
 
-## 01 — THE BLACK FORMS
+## 01 — THE DARK FORMS
 
-Dark rectangular / block-like forms.
+Dark structural forms.
 
 They may read as:
 - boxes;
@@ -57,11 +57,16 @@ They may read as:
 - apertures;
 - screens;
 - barriers;
-- architectural masses.
+- architectural masses;
+- compressed or broken spatial planes.
 
 They are not decorative frames.
 
 They structure hiding, emergence, distance and separation.
+
+They do **not** need to be pure flat black.
+
+Darkness in NIRARA may contain colour, reflected light, texture, residue, depth and material variation.
 
 ## 02 — THE WATCHING BEINGS
 
@@ -71,15 +76,17 @@ They are not anatomically realistic humans.
 
 Canonical traits:
 - rounded or near-rounded heads;
-- compact bodies;
+- compact or partially dissolved bodies;
 - little anatomical detail;
-- monochrome or near-monochrome;
 - eyes carry more information than the rest of the body;
-- some bodies may be only partially visible.
+- some bodies may be only partially visible;
+- their surfaces may carry colour, light, stain, texture or material ambiguity.
 
 They may feel human-adjacent without becoming literal people.
 
 They are witnesses before they are characters.
+
+They must feel **alive**, not diagrammatic.
 
 ## 03 — THE BLINK / LOOK
 
@@ -96,6 +103,8 @@ Possible states:
 
 Different beings may carry different degrees of attention.
 
+The gaze should participate in the emotional field, not merely prove interactivity.
+
 ## 04 — THE SMALL CRYING BEING
 
 Position bias:
@@ -111,6 +120,7 @@ Its cry may be represented through:
 - vibration;
 - sound;
 - visual pulse;
+- colour / light disturbance;
 - or a combination.
 
 The scene does not visibly answer it.
@@ -133,6 +143,8 @@ The correct question is not:
 The correct condition is:
 “I cannot quite decide what I am looking at, but the rest of the image seems to organize itself around it.”
 
+It should feel materially and visually rich enough to attract attention without becoming a clean hero object.
+
 ---
 
 # 4. INTERNAL TENSION
@@ -142,10 +154,12 @@ The work is built from several oppositions:
 - watching / being unheard;
 - many witnesses / one isolated voice;
 - visible attention / absent response;
-- rigid black structure / fragile small bodies;
+- dark structure / living material;
 - recognisable forms / unnamed centre;
 - stillness / blink;
-- loud internal distress / external silence.
+- loud internal distress / external silence;
+- darkness / colour;
+- density / unresolved space.
 
 These tensions may guide composition.
 
@@ -164,11 +178,18 @@ NIRARA must not drift into:
 - sci-fi interface decoration;
 - “weird for the sake of weird”;
 - crowded symbolism;
-- decorative objects inserted because the composition feels empty.
+- decorative objects inserted because the composition feels empty;
+- sterile minimalism;
+- flat black emptiness mistaken for seriousness;
+- clean graphic design pretending to be atmosphere.
 
 The scene may be strange.
 
 It must not be arbitrary.
+
+The scene may be dark.
+
+It must not be dead.
 
 ---
 
@@ -182,11 +203,19 @@ The remaining impulse — throwing unrelated objects into the frame simply to fi
 
 **Filler is not canon.**
 
+This does **not** mean the image must be visually sparse.
+
+NIRARA may be dense, rich, textured and full of colour relationships.
+
+The distinction is:
+
+**richness is allowed; filler is not.**
+
 Negative space is allowed.
 
-Unresolved space is allowed.
+Visual abundance is allowed.
 
-A frame does not need to be full in order to feel complete.
+Every part must belong to the same living field.
 
 ---
 
@@ -225,17 +254,20 @@ The final medium must be selected because it strengthens the scene, not because 
 
 ---
 
-# 9. STOP CONDITION BEFORE IMPLEMENTATION
+# 9. VISUAL TRUTH CONDITION
 
-Before code, animation, 3D, sound or interface work is accepted, the proposed execution must preserve:
+Any future execution must preserve:
 
 1. the small watching beings;
 2. the marginal crying being;
-3. the black structural forms;
+3. the dark structural forms;
 4. the unnamed centre;
-5. the discipline against filler.
+5. the discipline against filler;
+6. a visibly living field;
+7. material richness;
+8. colour / light relationships that keep darkness alive.
 
-If an implementation weakens one of these to make the work more technically impressive, the implementation is wrong.
+If an implementation contains all canonical objects but feels dead, flat, sterile or merely “designed,” it has failed.
 
 ---
 
@@ -245,6 +277,10 @@ If an implementation weakens one of these to make the work more technically impr
 **CORE IMAGE = LOCKED**  
 **FIVE ELEMENTS = LOCKED**  
 **FILLER = CUT**  
+**RICHNESS = REQUIRED**  
+**DARKNESS ≠ DEADNESS**  
+**COLOUR = OPEN / ACTIVE**  
 **MEANING = OPEN**  
 **MEDIUM = OPEN**  
-**IMPLEMENTATION = NOT YET STARTED**
+**VISUAL SLICE 01 = REJECTED**  
+**NEXT EXECUTION = MUST START FROM RESET VISUAL LAW**
