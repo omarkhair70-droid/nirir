@@ -25,6 +25,7 @@ The work may be dark, strange and unresolved, but it must remain rich in colour,
 - `docs/NIRARA_MASTER_FOUNDATION_2026-09-24.md`
 - `docs/NIRARA_VISUAL_CONSTITUTION_2026-09-24.md`
 - `docs/NIRARA_VISUAL_SLICE_01_REJECTED_2026-09-24.md`
+- `docs/NIRARA_REAL_ASSET_BANK_2026-09-24.md`
 
 ## Working rule
 
