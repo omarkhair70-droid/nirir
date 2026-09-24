@@ -54,7 +54,7 @@ body{font-family:Arial,Helvetica,sans-serif;overflow:hidden}
   position:absolute;
   z-index:5;
   left:0;right:0;bottom:0;
-  height:35%;
+  height:27%;
   background:linear-gradient(180deg,rgba(4,4,4,.83),#010101 28%,#000);
   box-shadow:0 -9px 28px rgba(0,0,0,.7);
 }
@@ -122,12 +122,12 @@ body{font-family:Arial,Helvetica,sans-serif;overflow:hidden}
   background:#080808;
   transform:translate(-50%,-50%);
 }
-.b1{left:50%;bottom:-35%;transform:rotate(-3deg) scale(.9)}
-.b2{left:18%;bottom:-45%;transform:scale(.7) rotate(6deg)}
-.b3{right:5%;bottom:-35%;transform:scale(.95) rotate(-4deg)}
-.b4{left:8%;bottom:-42%;transform:scale(.74) rotate(5deg)}
-.b5{left:48%;bottom:-51%;transform:scale(.61) rotate(-8deg)}
-.b6{right:4%;bottom:-50%;transform:scale(.7) rotate(6deg)}
+.b1{left:50%;bottom:-13%;transform:rotate(-3deg) scale(.9)}
+.b2{left:18%;bottom:-18%;transform:scale(.7) rotate(6deg)}
+.b3{right:5%;bottom:-12%;transform:scale(.95) rotate(-4deg)}
+.b4{left:8%;bottom:-17%;transform:scale(.74) rotate(5deg)}
+.b5{left:48%;bottom:-23%;transform:scale(.61) rotate(-8deg)}
+.b6{right:4%;bottom:-21%;transform:scale(.7) rotate(6deg)}
 .b1 .head{border-radius:43% 57% 52% 48% / 39% 44% 56% 61%}
 .b2 .head{border-radius:55% 45% 42% 58% / 47% 38% 62% 53%}
 .b3 .head{border-radius:46% 54% 39% 61% / 55% 45% 55% 45%}
