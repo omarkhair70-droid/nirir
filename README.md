@@ -2,33 +2,41 @@
 
 **NIRARA** is an authored visual / interactive artwork in development by Omar Khair.
 
-The work begins from a simple image:
+The work begins from a visual memory:
 
-> Small, reduced beings watch from behind black forms.  
+> Small beings watch from behind dark forms.  
 > One small figure cries from the lower-left edge, loudly but unheard.  
-> At the centre is an unresolved gap that refuses a stable name.
-
-This repository starts with the artistic law before implementation.
+> At the centre is an unresolved gap / mass / rupture that refuses a stable name.
 
 ## Current status
 
-**FOUNDATION LOCKED / PRE-IMPLEMENTATION**
+**FOUNDATION LOCKED / VISUAL LAW RESET**
 
-No scene code is accepted until it can be measured against the canonical foundation.
+The first visual implementation was rejected because it translated darkness into flatness and restraint into sterility.
+
+NIRARA now follows a stronger law:
+
+> **Dark does not mean dead.**
+
+The work may be dark, strange and unresolved, but it must remain rich in colour, light, material, texture and presence.
 
 ## Canonical documents
 
 - `docs/NIRARA_MASTER_FOUNDATION_2026-09-24.md`
 - `docs/NIRARA_VISUAL_CONSTITUTION_2026-09-24.md`
+- `docs/NIRARA_VISUAL_SLICE_01_REJECTED_2026-09-24.md`
 
 ## Working rule
 
-NIRARA is not built by adding strange objects until the frame feels full.
+NIRARA is not built by adding unrelated strange objects until the frame feels full.
+
+But it is also not built by stripping the image until it dies.
 
 Every element must either:
 - intensify witnessing;
 - intensify the unheard cry;
 - intensify the unresolved centre;
-- or strengthen the spatial relation between them.
+- deepen colour / light / material relationships;
+- or strengthen the spatial and emotional field.
 
-If it only fills space, it is removed.
+**Richness is allowed. Filler is not.**
