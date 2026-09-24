@@ -278,3 +278,30 @@ body{overflow:hidden}
   mix-blend-mode:screen;
   filter:contrast(1.5) sepia(.25);
 }
+
+
+/* PASS 04 — BREAK THE HOLE READING */
+.cf3{opacity:.42!important;filter:brightness(.46) contrast(1.35) sepia(.34) hue-rotate(327deg)!important}
+.cf5{
+  position:absolute;left:10%;top:10%;width:79%;height:82%;overflow:hidden;
+  transform:rotate(-13deg) skewX(5deg);
+  opacity:.62;mix-blend-mode:screen;
+  -webkit-mask-image:radial-gradient(ellipse at 49% 51%,#000 0 40%,rgba(0,0,0,.82) 57%,transparent 87%);
+  mask-image:radial-gradient(ellipse at 49% 51%,#000 0 40%,rgba(0,0,0,.82) 57%,transparent 87%);
+}
+.cf5 img{
+  position:absolute;width:390%;height:auto;max-width:none;
+  left:-166%;top:-90%;
+  filter:saturate(.38) brightness(.63) contrast(1.27) sepia(.28) hue-rotate(345deg);
+}
+.centre-shadow{
+  left:35%!important;top:29%!important;width:34%!important;height:38%!important;
+  border-radius:59% 41% 62% 38% / 36% 61% 39% 64%;
+  transform:rotate(21deg) skewX(-9deg)!important;
+  filter:blur(16px)!important;
+}
+.cry{left:4.2%!important;bottom:2.8%!important;width:10.5%!important;height:24%!important}
+.cry-stain{left:-1%!important;bottom:-6%!important;width:24%!important;height:25%!important;opacity:.18!important}
+.w1::after,.w2::after,.w3::after{
+  box-shadow:inset 0 -25px 26px rgba(0,0,0,.58),inset 0 15px 22px rgba(0,0,0,.20);
+}
