@@ -1,0 +1,59 @@
+name: NIRARA Visual Slice QA
+
+on:
+  push:
+    branches:
+      - visual/slice-01-witness-field-20260924
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout slice
+        uses: actions/checkout@v4
+
+      - name: Setup Chrome
+        id: chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Start static server
+        run: |
+          python3 -m http.server 4173 > /tmp/nirara-server.log 2>&1 &
+          echo $! > /tmp/nirara-server.pid
+          sleep 2
+          curl --fail http://127.0.0.1:4173/index.html > /dev/null
+
+      - name: Capture desktop
+        run: |
+          "${{ steps.chrome.outputs.chrome-path }}" \
+            --headless=new \
+            --no-sandbox \
+            --disable-gpu \
+            --hide-scrollbars \
+            --window-size=1440,1000 \
+            --screenshot=nirara-slice-01-desktop.png \
+            http://127.0.0.1:4173/
+
+      - name: Capture mobile
+        run: |
+          "${{ steps.chrome.outputs.chrome-path }}" \
+            --headless=new \
+            --no-sandbox \
+            --disable-gpu \
+            --hide-scrollbars \
+            --window-size=390,844 \
+            --screenshot=nirara-slice-01-mobile.png \
+            http://127.0.0.1:4173/
+
+      - name: Upload rendered review
+        uses: actions/upload-artifact@v4
+        with:
+          name: nirara-visual-slice-01
+          path: |
+            nirara-slice-01-desktop.png
+            nirara-slice-01-mobile.png
+          if-no-files-found: error
