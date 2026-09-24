@@ -26,6 +26,7 @@ The work may be dark, strange and unresolved, but it must remain rich in colour,
 - `docs/NIRARA_VISUAL_CONSTITUTION_2026-09-24.md`
 - `docs/NIRARA_VISUAL_SLICE_01_REJECTED_2026-09-24.md`
 - `docs/NIRARA_REAL_ASSET_BANK_2026-09-24.md`
+- `docs/NIRARA_SCENE_GRAMMAR_V1_2026-09-24.md`
 
 ## Working rule
 
@@ -41,3 +42,5 @@ Every element must either:
 - or strengthen the spatial and emotional field.
 
 **Richness is allowed. Filler is not.**
+
+The source pieces are material, not assigned roles. The artist can move, crop, erase, merge, recolour and destroy their original identity until they behave as one field.
