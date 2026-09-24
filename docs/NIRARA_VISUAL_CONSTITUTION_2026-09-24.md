@@ -1,270 +1,349 @@
 # NIRARA
-## VISUAL CONSTITUTION
+## VISUAL CONSTITUTION — RESET
 
 **Status:** CANONICAL VISUAL LAW  
-**Date:** 2026-09-24
+**Date:** 2026-09-24  
+**Supersedes:** the earlier restrained-monochrome reading
 
 ---
 
-# 1. PRIMARY VISUAL LANGUAGE
+# 1. PRIMARY LAW
 
-NIRARA begins in a restrained monochrome field.
+**DARK DOES NOT MEAN DEAD.**
 
-Primary range:
-- black;
-- near-black;
-- white;
-- off-white;
-- controlled greys.
+NIRARA must feel visually alive.
 
-Colour is not forbidden forever, but no colour is admitted without a specific structural reason.
+The image may contain black, shadow, grief, silence and unease, but none of those justify flatness.
 
-The first visual exploration should be monochrome.
+The field should feel:
+- rich;
+- charged;
+- material;
+- painterly;
+- inhabited;
+- luminous in places;
+- emotionally dense;
+- capable of colour even when darkness dominates.
+
+The work must never become a clean dark UI, a sterile black composition, or “minimalism” used as a substitute for visual life.
 
 ---
 
-# 2. THE BEINGS
+# 2. COLOUR
 
-The beings are deliberately reduced.
+Monochrome is **not** canonical.
+
+Colour is part of the emotional field.
+
+Possible families may include:
+- deep blue-black;
+- warm black;
+- bruised violet;
+- dirty cream;
+- milk-white;
+- oxidised red;
+- rust;
+- dim amber;
+- cold green-grey;
+- smoky brown;
+- bruised skin tones;
+- desaturated cyan;
+- other colours that emerge from the final material language.
+
+These are not a fixed palette.
+
+The rule is relational:
+
+**colour should feel as if it belongs to the same world, not as if it was added on top.**
+
+Black itself should contain temperature.
+
+White itself should contain material character.
+
+---
+
+# 3. MATERIAL RICHNESS
+
+Surfaces should not read as flat CSS blocks.
+
+The visual field may contain:
+- staining;
+- scraping;
+- dust;
+- bloom;
+- reflected light;
+- translucent layers;
+- soft edges against hard edges;
+- painterly bleed;
+- granular build-up;
+- glazed surfaces;
+- matte surfaces;
+- torn or rubbed transitions;
+- luminous residue;
+- colour contamination between neighbouring forms.
+
+Texture is not decoration.
+
+Texture is part of how the scene breathes.
+
+---
+
+# 4. THE BEINGS
+
+The beings are not mascots and not simple UI primitives.
+
+They remain small and reduced, but they need presence.
 
 ## Head
-- round or softly irregular round;
-- simple silhouette;
-- no realistic hair, skin or facial anatomy;
-- may emerge partially from darkness.
+- broadly rounded;
+- not mechanically perfect;
+- may flatten, swell, distort or disappear into shadow;
+- may catch light unevenly;
+- may contain surface variation.
 
 ## Body
-- small relative to the frame;
 - compact;
-- simplified torso;
-- limbs optional or only partially defined;
-- no detailed anatomy required.
+- sometimes incomplete;
+- may dissolve into a dark form;
+- may be more suggested than outlined;
+- may carry asymmetry and physical awkwardness.
 
 ## Face
-The eyes carry the highest visual priority.
+The eyes remain the strongest readable feature.
 
-Other facial information may be absent or minimal.
+But the face must not look like an icon made from two dots and a circle.
 
-The crying being is the exception: mouth / face / body deformation may become more legible if required to carry the cry.
+Presence comes from:
+- light;
+- material;
+- scale;
+- partial concealment;
+- uneven visibility;
+- attention.
 
-## Character law
-They must not become:
-- cartoons;
-- mascots;
-- realistic actors;
-- monsters.
+## Core test
 
-They should remain **reduced presences**.
+A being should feel like:
+**something alive is there**
 
----
-
-# 3. SCALE RELATION
-
-The beings are small.
-
-The black forms and the unresolved centre should be capable of feeling larger than them.
-
-This scale difference creates vulnerability and distance.
-
-Do not enlarge the beings merely because a screen has empty space.
+—not:
+**a symbol of a being has been placed there.**
 
 ---
 
-# 4. BLACK FORMS
+# 5. DARK FORMS
 
-The dark structures should be simple enough to resist illustration.
+The dark structures are not clean boxes.
 
-Possible geometry:
-- rectangles;
-- deep boxes;
-- slab-like masses;
-- partial frames;
-- stacked planes;
-- apertures.
+They may be:
+- deep masses;
+- black architectural interruptions;
+- cloth-like barriers;
+- scorched planes;
+- apertures;
+- slabs;
+- stacked dark volumes;
+- compressed spatial pockets.
 
-They should create:
-- concealment;
-- peeking;
-- compression;
-- separation;
-- visual rhythm.
+Their edges do not need to be perfect.
 
-Avoid ornamental geometry.
+Their surfaces may absorb, reflect or leak colour.
 
----
-
-# 5. COMPOSITION BIAS
-
-This is not a final layout map, but the foundation has directional biases.
-
-## Upper / surrounding field
-More witnesses.
-
-Some only heads or eyes.
-
-The group should not read as an evenly distributed crowd.
-
-## Lower-left
-The crying being.
-
-Keep surrounding visual noise low.
-
-Its isolation matters more than its size.
-
-## Centre
-The unnamed gap / mass / rupture.
-
-It should attract attention without becoming a clean hero object.
-
-## Remaining frame
-Allow negative space.
-
-Do not fill automatically.
+They should create depth and visual tension, not a grid.
 
 ---
 
 # 6. THE UNNAMED CENTRE
 
-The centre should not become:
-- a polished sculpture;
-- a clearly modelled rock;
-- an obvious pile of clothes;
-- a literal hole;
-- a recognizable prop.
+The centre is not a logo, void icon, black hole or clean sculpture.
 
-Useful material ambiguity may come from overlaps such as:
-- hard / soft;
+It should be materially unresolved.
+
+It may carry simultaneous readings:
 - cloth / stone;
-- cavity / mound;
+- wound / cavity;
+- mound / collapse;
 - object / absence;
-- light-catching surface / swallowed black.
+- body / debris;
+- hard / soft;
+- wet / dry;
+- illuminated / swallowed.
 
-Its identity must remain unstable.
+The viewer should be able to look longer and become **less certain**, not more certain.
 
----
-
-# 7. EYES
-
-Eyes may be:
-- pale marks inside dark heads;
-- simple sclera / iris constructions;
-- tiny luminous points;
-- partially occluded shapes.
-
-Avoid over-rendering.
-
-The eyes should feel capable of attention without needing photorealism.
+It should attract attention because it is visually alive and difficult, not because it is simply the darkest or largest object.
 
 ---
 
-# 8. BLINKING
+# 7. THE CRYING BEING
 
-Blinking should be asynchronous.
+The lower-left being must not be a tiny mascot with a sad face.
 
-Baseline:
-- most beings move very little;
-- some blink slowly;
-- one may blink with slight irregularity;
-- long still intervals are desirable.
+Its distress has to enter the image physically.
 
-Never synchronize the whole group.
+Possible carriers:
+- body compression;
+- stretched mouth;
+- trembling edge;
+- wet or bright eye region;
+- local colour disturbance;
+- a vibrating pool of light;
+- sound;
+- breath;
+- texture breaking around the body;
+- rhythm that fails to reach the rest of the scene.
 
-Never use constant movement simply to prove the scene is interactive.
+The cry must feel intense.
 
----
-
-# 9. THE CRY
-
-The cry is not automatically literal audio.
-
-Possible visual / sonic manifestations:
-- open mouth;
-- shaking torso;
-- small repeated tremor;
-- waveform-like displacement;
-- a loud sound that feels spatially ignored;
-- a sound perceptually masked by the room;
-- total silence while the body visibly screams.
-
-The final solution must preserve the contradiction:
-
-**the cry is intense, but receives no response.**
+The surrounding scene must remain indifferent.
 
 ---
 
-# 10. LIGHT
+# 8. LIGHT
 
-Light should be selective.
+Light is active material.
 
-Likely starting condition:
-- black field;
-- hard or cold whites;
-- small zones of visibility;
-- beings partly lost into darkness;
-- no beauty lighting for its own sake.
+It may:
+- graze a head;
+- reveal only one eye;
+- catch the unnamed centre unevenly;
+- create colour inside black;
+- disappear into matte surfaces;
+- make one zone feel wet, dusty, cold, warm or exposed.
 
-Light should reveal and withhold.
+Avoid generic cinematic rim lights.
 
----
+Avoid lighting the scene only to make forms readable.
 
-# 11. TEXTURE
-
-Possible texture families:
-- soft analog noise;
-- monochrome grain;
-- broadcast interference;
-- mild blur / ghosting;
-- unstable edge;
-- low-level flicker.
-
-These are optional.
-
-Do not reuse CRT language from another artwork merely because it worked before.
-
-NIRARA must earn its own texture.
+Light should carry feeling.
 
 ---
 
-# 12. MOTION
+# 9. PAINTERLY DENSITY
 
-Motion hierarchy:
+NIRARA can be visually dense.
 
+Density may come from:
+- layered surfaces;
+- colour interaction;
+- tonal depth;
+- repetition of watching forms;
+- overlapping masses;
+- small events in the field;
+- partially visible traces;
+- differences in edge quality;
+- spatial compression.
+
+This is different from adding random objects.
+
+**Dense does not mean cluttered.**
+
+**Rich does not mean filled.**
+
+---
+
+# 10. MOVEMENT
+
+Motion should feel embedded in the scene.
+
+Priority:
 1. gaze;
 2. blink;
-3. crying-body disturbance;
-4. subtle unresolved-centre instability;
-5. everything else only if necessary.
+3. breathing / bodily micro-motion;
+4. crying-body disturbance;
+5. local light / material instability;
+6. centre instability if needed.
 
-The default state is restraint.
+Avoid animation that makes the work feel like a motion-graphics demo.
 
----
-
-# 13. DENSITY LAW
-
-**High tension does not require high object count.**
-
-The scene is allowed to feel sparse.
-
-Before adding any object ask:
-
-- Does this intensify watching?
-- Does this intensify the unheard cry?
-- Does this intensify the unresolved centre?
-- Does this strengthen spatial separation?
-
-If no:
-**do not add it.**
+The scene should feel alive before it feels interactive.
 
 ---
 
-# 14. FIRST EXECUTION TEST
+# 11. COMPOSITION
 
-The first visual execution should prove only:
+Do not default to a neat grid.
 
-- beings can feel alive without realism;
-- black forms can create witness-space;
-- the lower-left cry reads without melodrama;
-- the centre remains genuinely unresolved;
-- the composition feels complete without filler.
+Do not distribute beings evenly.
 
-Nothing else is required in the first slice.
+Do not “balance” the scene until it becomes polite.
+
+Useful conditions:
+- asymmetry;
+- compression;
+- awkward spacing;
+- partial occlusion;
+- weighted darkness;
+- one emotionally exposed corner;
+- a centre that is not a clean focal badge;
+- visual pathways that do not resolve immediately.
+
+The frame should feel discovered, not laid out.
+
+---
+
+# 12. EMOTIONAL COLOUR LAW
+
+Every major zone should carry emotional temperature.
+
+Possible examples:
+- one witness near a cold grey-green reflection;
+- another swallowed by warm brown-black;
+- the crying being touched by a bruised pale light;
+- the unnamed centre carrying contradictory warm/cold readings.
+
+These are examples only.
+
+The final colour world should emerge through visual testing.
+
+---
+
+# 13. ANTI-DEADNESS TEST
+
+Before accepting any render, ask:
+
+- Does the scene feel alive before I understand it?
+- Is the black materially rich?
+- Is there colour tension?
+- Do surfaces feel different from one another?
+- Do the beings feel present rather than inserted?
+- Does the crying figure affect the emotional field?
+- Does the centre remain unresolved?
+- Is there visual pleasure / richness even inside discomfort?
+- Could this image hold attention even with all motion paused?
+
+If not, reject it.
+
+---
+
+# 14. REJECTED DIRECTION
+
+The following direction is explicitly rejected:
+
+- clean black rectangles;
+- overly neat composition;
+- uniformly muted greys;
+- mascot-like rounded figures;
+- simple “dark = serious” treatment;
+- sterile minimal visual language;
+- flat UI-style depth;
+- a centre that reads immediately as a black hole / eye / void icon.
+
+**Visual Slice 01 is not a base to refine. It is a failed direction to learn from.**
+
+---
+
+# 15. NEXT VISUAL SLICE
+
+The next slice must begin from image-making, not layout-making.
+
+It should prove:
+
+- darkness can carry colour;
+- the beings can feel materially alive;
+- the crying figure can disturb the field;
+- the centre can remain unnameable while still visually rich;
+- the image can feel painterly / textural / inhabited without random filler;
+- the frame can hold attention as a still image before interactivity is added.
+
+No new interaction system is required until that is true.
